@@ -1,0 +1,15 @@
+.history__point {
+    background-color:rgb(149, 247, 149);
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.description {
+    text-align: left;
+}
+.point {
+    /* border-top: 1px solid red; */
+    background-color:rgb(255, 251, 251);
+}
+.table {
+    padding: 50px 70px;
+}

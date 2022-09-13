@@ -1,0 +1,15 @@
+.link {
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+/* font-family: 'Roboto', sans-serif; */
+/* font-family: 'Rubik Beastly', cursive; */
+}
+
+.link:hover {
+    color: rgb(147, 233, 243);
+}
+.link:active {
+    color: rgb(147, 161, 243);
+}

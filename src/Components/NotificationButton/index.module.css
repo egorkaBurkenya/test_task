@@ -1,0 +1,22 @@
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* box-sizing: border-box; */
+    border: 2px solid rgb(206, 234, 255);
+    border-radius: 8px;
+    padding: 0 20px;
+    background-color: rgba(184, 246, 251, 0.39);
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.btn:hover {
+    border: 2px solid rgb(138, 200, 247);
+    background-color: rgba(184, 224, 251, 0.499);
+}
+
+.btn p {
+    margin-right: 10px;
+    font-family: 'Poppins', sans-serif;
+}

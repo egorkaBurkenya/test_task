@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    
+}
+.li a {
+text-decoration: none;
+margin-right: 10px;
+font-size: 16px;
+border: 2px solid rgb(233, 233, 233);
+border-radius: 10px;
+padding: 5px;
+}
